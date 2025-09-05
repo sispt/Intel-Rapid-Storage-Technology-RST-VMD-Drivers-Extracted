@@ -1,0 +1,20 @@
+# License for Intel® RST VMD Drivers Repository
+
+## 1. Driver Files
+All driver files included in this repository (`.inf`, `.cat`, `.sys`, etc.) are **copyright Intel Corporation**.  
+This repository only provides the extracted files for **convenience, educational use, or Windows installation on VMD-enabled systems**.  
+
+**Restrictions:**  
+- Do not redistribute these files for commercial purposes.  
+- Do not claim these files as your own work.  
+- Use these files only for the intended purpose of Windows installation or educational reference.  
+
+## 2. Repository Content (README, instructions, scripts)
+All other content in this repository, including the README, installation instructions, or scripts, is licensed under the **MIT License**.  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this content to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the instructions and documentation, subject to the following conditions:  
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the repository content.  
+2. The license does not apply to the Intel driver files.  
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
