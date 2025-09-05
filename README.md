@@ -13,10 +13,10 @@ This repo provides extracted Intel® Rapid Storage Technology (RST) VMD drivers 
 
 ## Folders
 
-- `8-10_gen/` — Intel 8th–10th Gen  
-- `11-12_gen/` — Intel 11th–12th Gen  
-- `13-15_gen/` — Intel 13th–15th Gen  
-
+- `IRST_8-9G/` — Intel 8th–9th Gen  
+- `IRST_10-11G/` — Intel 10th–11th Gen  
+- `IRST_12-13G/` — Intel 12th–13th Gen  
+- `IRST_12-15G/` — Intel 12th–15th Gen  
 Choose the folder matching your CPU generation.
 
 ---
