@@ -53,7 +53,7 @@ Clear folder naming and keeping the README updated helps everyone.
 
 ---
 
-**Helps with searches like:**  
+**Keywords:**  
 - Windows can’t detect disk  
 - No device drivers were found  
 - Intel VMD NVMe driver  
